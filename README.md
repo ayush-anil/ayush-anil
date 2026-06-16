@@ -3,7 +3,7 @@
 🎓 M.Sc. Data Science & AI @ Middlesex University Dubai  
 📊 Data Science Intern @ Coding Samurai (Batch A-88)  
 🏭 Ex IT Intern @ CEAT Company (Manufacturing)  
-📍 Dubai, UAE  
+📍 Dubai, United Arab Emirates
 
 ---
 
