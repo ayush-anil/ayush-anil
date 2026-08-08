@@ -18,16 +18,15 @@ Feel free to connect or reach out if you'd like to discuss data science, AI, ana
 
 ---
 
-## 🎓 Education
-| Degree | Institution | Grade | Year |
-|--------|-------------|------|
-| M.Sc. in Data Science & AI (Part Time) | Middlesex University Dubai | First Class | 2026–Present |
-| B.Tech. in Mechanical Engineering | Symbiosis International University | CGPA 8.57 | 2022-2025 |
-| Diploma in Mechanical Engineering | MSBTE Maharashtra | Percent 91.79 | 2019-2022 |
+## Education
+
+- M.Sc. in Data Science & AI - Middlesex University Dubai First Class (2026–Present)
+- B.Tech. in Mechanical Engineering - Symbiosis Institute of Technology (SIT) Pune - CGPA 8.57 (2022-2025)
+- Diploma in Mechanical Engineering - K. K. Wagh Polytechnic (KKWP) Nashik - Percent 91.79 (2019-2022)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -37,7 +36,7 @@ Feel free to connect or reach out if you'd like to discuss data science, AI, ana
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 📌 [Airbnb Rental Income & Listing Success Prediction](#)
 Analyzed Airbnb datasets to predict rental income and listing success  
@@ -55,11 +54,11 @@ attack patterns, and risk mitigation strategies.
 Data science tasks completed as part of Coding Samurai Internship.
 1: Classification - Logistic Regression on the Titanic Dataset
 2: Data Analytics - Exploratory Data Analysis (EDA) on Titanic  Dataset
-3: 
+3: Linear Regression on Simple Dataset
 
 ---
 
-## 📜 Certifications
+## Certifications
 - IBM Data Science Professional Certificate – Coursera 
 - Data Science Certificate – Coding Samurai 
 - Business Analysis Foundations Certificate – LinkedIn Learning
@@ -68,6 +67,6 @@ Data science tasks completed as part of Coding Samurai Internship.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushanil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayushbadgujar94@gmail.com)
