@@ -1,26 +1,29 @@
-# Hi, I'm Ayush Badgujar 👋
+# Hi, My name is Ayush Badgujar
 
-🎓 M.Sc. Data Science & AI @ Middlesex University Dubai  
-📊 Data Science Intern @ Coding Samurai (Batch A-88)  
-🏭 Ex IT Intern @ CEAT Company (Manufacturing)  
-📍 Dubai, United Arab Emirates
+M.Sc. Data Science & AI @ Middlesex University Dubai  
+Data Science & AI Student | Machine Learning | Data Analytics | Turning Data into Business Value | Mechanical Engineer
+Dubai, United Arab Emirates
 
 ---
 
-## 🧑‍💻 About Me
-Aspiring Data Scientist with experience in data analysis, predictive 
-modeling, and visualization. Passionate about turning raw data into 
-actionable insights. Currently building expertise in Machine Learning 
-and AI applications.
+## About Me
+I am a student currently pursuing an Master's in Data Science and Artificial Intelligence at Middlesex University Dubai. Before transitioning into data science, I completed a Bachelor's in Mechanical Engineering from Symbiosis International University and a Diploma in Mechanical Engineering with academic distinction. My engineering background has strengthened my analytical thinking, problem-solving abilities, and data-driven approach to tackling complex challenges.
+ 
+Through IT projects and intern experience, I have developed skills in applied data science and data visualization. During my Data Science Internship at Coding Samurai, I built classification and regression models, performed exploratory data analysis, and applied data preprocessing techniques using jupyter notebook and r-studio. Previously, at CEAT, I worked with industrial datasets to analyze manufacturing processes and develop dashboards.
+My projects include predictive analytics for Airbnb rental income, Instagram profile classification, and a cybersecurity case study analyzing the Careem 2018 data breach. 
+ 
+I am currently seeking internship and full-time opportunities in Data Science and Data Analytics where I can contribute and learn from experienced professionals.
+ 
+Feel free to connect or reach out if you'd like to discuss data science, AI, analytics, engineering, or potential collaboration opportunities. Reach me at ayushbadgujar94@gmail.com
 
 ---
 
 ## 🎓 Education
-| Degree | Institution | Year |
+| Degree | Institution | Grade | Year |
 |--------|-------------|------|
-| M.Sc. Data Science & AI (Part Time) | Middlesex University Dubai | 2026–Present |
-| B.E. Mechanical Engineering | Symbiosis International University | 2022-2025 |
-| Diploma in Mechanical Engineering | MSBTE Maharashtra | 2019-2022 |
+| M.Sc. in Data Science & AI (Part Time) | Middlesex University Dubai | First Class | 2026–Present |
+| B.Tech. in Mechanical Engineering | Symbiosis International University | CGPA 8.57 | 2022-2025 |
+| Diploma in Mechanical Engineering | MSBTE Maharashtra | Percent 91.79 | 2019-2022 |
 
 ---
 
@@ -49,14 +52,19 @@ Analyzed the 2018 Careem data breach to identify security vulnerabilities,
 attack patterns, and risk mitigation strategies.
 
 ### 📌 [Coding Samurai — Data Science Internship Projects](#)
-Data science tasks completed as part of Coding Samurai Internship Batch A-88.
+Data science tasks completed as part of Coding Samurai Internship.
+1: Classification - Logistic Regression on the Titanic Dataset
+2: Data Analytics - Exploratory Data Analysis (EDA) on Titanic  Dataset
+3: 
 
 ---
 
 ## 📜 Certifications
-- 🏅 IBM — Data Science Career Preparation
-- 🏅 Duke University — Data Science Math Skills
-- 🏅 Google Cloud — Introduction to Generative AI
+- IBM Data Science Professional Certificate – Coursera 
+- Data Science Certificate – Coding Samurai 
+- Business Analysis Foundations Certificate – LinkedIn Learning
+- Introduction to Gen AI – Google
+- Introduction to Networking - NVIDIA 
 
 ---
 
